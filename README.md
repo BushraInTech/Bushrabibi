@@ -7,9 +7,13 @@
 
 ### 👨‍💻 About Me
  🎓 Computer Science student (Final Year)
+ 
  🚀 Passionate about **Web Development**
+ 
  📱 Learning and building projects using **HTML, CSS, JavaScript, Node.js, Express.js & MongoDB**
+ 
 🌱 Currently improving my skills in **Backend Development**
+
 💼 Actively looking for **Internship / Junior Developer opportunities**
 
 ### 🛠 Tech Stack
